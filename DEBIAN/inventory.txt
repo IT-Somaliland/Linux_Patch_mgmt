@@ -1,0 +1,4 @@
+ansible-target1 ansible_host=192.168.0.122 ansible_ssh_pass=rag
+ansible-target2 ansible_host=192.168.0.151 ansible_ssh_pass=rag
+ansible-target3 ansible_host=192.168.0.152 ansible_ssh_pass=rag
+ansible-target4 ansible_host=192.168.0.153 ansible_ssh_pass=rag
